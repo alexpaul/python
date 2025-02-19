@@ -1,5 +1,7 @@
 # Agents
 
+An example of a weather agent.
+
 ## Snippet of an agent
 
 ```python
